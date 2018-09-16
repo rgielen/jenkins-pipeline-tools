@@ -1,0 +1,3 @@
+= Jenkins Pipeline Tools
+
+The project is a https://jenkins.io/doc/book/pipeline/shared-libraries/[Jenkins shared pipeline library] to help with common tasks in CI/CD.
